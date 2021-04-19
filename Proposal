@@ -1,0 +1,12 @@
+# Project 5 Proposal
+
+# Tony Maldonado-Perez
+# amaldo36@uic.edu
+
+# For this project I am leaning more to the idea of a Location Guessing Game (Choice 16)
+# I will provide a display grid and a fixed number of turns like the directions for the examples shown
+# One thing I do want to change is the way the game works
+# Instead of have having obstacle to find, I want to make the grid like a maze 
+# If the wrong square is picked you will have to restart and remember the pattern you have begun to discover
+# If you have restarted too many times it will be game over and a new pattern for the maze will be made for the new game.
+
